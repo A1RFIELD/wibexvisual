@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "com.wibex.visuals.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EntityMixin", "GameRendererMixin"],
+  "injectors": { "defaultRequire": 0 }
+}
